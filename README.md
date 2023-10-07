@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou [Lucas ALves Ribeiro]
+### 👋 Olá, eu sou Lucas ALves Ribeiro
 
 #### 💼 Front-End Developer | Arquiteto de Software Front-End | Me especializando em Angular
 
@@ -20,6 +20,6 @@
 #### 🤝 Vamos nos conectar:
 
 - 💬 Fique à vontade para me seguir aqui no GitHub para acompanhar o meu trabalho.
-- 📫 Você pode entrar em contato comigo por meio do meu e-mail [lucas2001.789@gmail.com].
+- 📫 Você pode entrar em contato comigo por meio do meu e-mail lucas2001.789@gmail.com.
 
 #### 🌟 Vamos construir um web melhor, juntos! 💪
