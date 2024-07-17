@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou Lucas ALves Ribeiro
+### 👋 Olá, eu sou Lucas Alves Ribeiro
 
 #### 💼 Front-End Developer | Arquiteto de Software Front-End | Me especializando em Angular
 
